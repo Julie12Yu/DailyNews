@@ -3,7 +3,4 @@
 
 3/18: GTC March 2024 (first 45 minutes)
 
-3/19: 
-
-IDEA POOL:
-VAEs
+3/19: VAE
