@@ -4,3 +4,9 @@
 3/18: GTC March 2024 (first 45 minutes)
 
 3/19: VAE
+
+3/20: Naive Bayes
+
+3/21: Naive Bayes Types
+
+3/22: Logarithm
