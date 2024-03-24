@@ -10,3 +10,5 @@
 3/21: Naive Bayes Types
 
 3/22: Logarithm
+
+3/23: NVDIA Unitree H1 robot
