@@ -11,4 +11,4 @@
 
 3/22: Logarithm
 
-3/23: NVDIA Unitree H1 robot
+3/23: NVDIA + Unitree H1 robot
