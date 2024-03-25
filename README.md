@@ -1,5 +1,8 @@
 # DailyNews
 ~15 minutes every day about AI or tech related things!
+---
+UPDATE:
+School started again - will do every Wednesday, Friday, Sunday for as long as I can!
 
 3/18: GTC March 2024 (first 45 minutes)
 
