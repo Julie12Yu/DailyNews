@@ -17,3 +17,5 @@ School started again - will do every Wednesday, Friday, Sunday for as long as I 
 3/23: NVDIA + Unitree H1 robot
 
 3/24: Red AI
+
+3/26: K-Means Clustering! Yippe
