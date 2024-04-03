@@ -19,4 +19,7 @@ School started again - will do every Wednesday, Friday, Sunday for as long as I 
 
 3/26: K-Means Clustering
 
+4/1: AI Hallucinations
+
 4/2: OpenAI + Microsoft Stargate
+
