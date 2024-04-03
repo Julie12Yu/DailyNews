@@ -1,5 +1,4 @@
 # DailyNews
-~15 minutes every day about AI or tech related things!
 ---
 UPDATE:
 School started again - will do every Wednesday, Friday, Sunday for as long as I can!
@@ -18,4 +17,6 @@ School started again - will do every Wednesday, Friday, Sunday for as long as I 
 
 3/24: Red AI
 
-3/26: K-Means Clustering! Yippe
+3/26: K-Means Clustering
+
+4/2: OpenAI + Microsoft Stargate
